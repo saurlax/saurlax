@@ -8,6 +8,6 @@
 - 🎓 Currently studying at DLUT
 - 🧪 Working on Web, IoT, DL, Cybersecurity and Graphics
 - 📧 Contact me via email: hi@saurlax.com
-- 🔗 Personal website: [saurlax.com](https://saurlax.com/)
+- 🔗 Personal website: [saurlax.com](https://saurlax.com)
 
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=saurlax)
