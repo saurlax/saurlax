@@ -6,8 +6,8 @@
 * 📧 Email me at [saurlax@qq.com](mailto://saurlax@qq.com)
 * ❤️ I like 🥭 and 🍉, which are really hard to refuse!
 
-![Saurlax's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurlax)
+![Saurlax's GitHub Stats](https://github-readme-stats.saurlax.com/api?username=saurlax&count_private=true&include_all_commits=true)
 
-**Language and framework I am using**
+**Languages I am using**
 
-![](https://img.shields.io/badge/Rust-gray) ![](https://img.shields.io/badge/Javascript-yellow) ![](https://img.shields.io/badge/MongoDB-green) ![](https://img.shields.io/badge/Vue-brightgreen) ![](https://img.shields.io/badge/React-blue)
+![Top Langs](https://github-readme-stats.saurlax.com/api/top-langs/?username=saurlax&layout=compact)
