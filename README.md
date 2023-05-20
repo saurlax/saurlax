@@ -1,13 +1,21 @@
 ## 👋 Hi, I'm Saurlax
 
-* 🕶️ View my personal website [saurlax.com](https://saurlax.com)
-* 🤔 Looking for my previous projects? They're on [Gitee](https://gitee.com/saurlax)
-* 📺 Check out what I've been doing on [Bilibili](https://space.bilibili.com/251608296)
-* 📧 Email me at [saurlax@qq.com](mailto://saurlax@qq.com)
-* ❤️ I like 🥭 and 🍉, which are really hard to refuse!
+[![website](https://img.shields.io/badge/website-saurlax.com-teal)](https://saurlax.com)
+[![email](https://img.shields.io/badge/email-saurlax@qq.com-orange)](mailto://saurlax@qq.com)
+[![bilibili](https://img.shields.io/badge/bilibili-@Saurlax-blue?logo=bilibili&logoColor=white)](https://space.bilibili.com/251608296)
+[![zhihu](https://img.shields.io/badge/zhihu-@Saurlax-blue?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/saurlax)
+[![gitee](https://img.shields.io/badge/gitee-@Saurlax-red?logo=gitee&logoColor=white)](https://gitee.com/saurlax)
 
-![Saurlax's GitHub Stats](https://github-readme-stats.saurlax.com/api?username=saurlax&count_private=true&include_all_commits=true)
+### General Stats
 
-**Languages I am using**
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=saurlax&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.saurlax.com/api/top-langs/?username=saurlax&layout=compact)
+![metrics](https://metrics.lecoq.io/saurlax)
+
+![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=saurlax)
+
+### Coding Stats
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurlax&langs_count=10&layout=compact)
+
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=saurlax&layout=compact)
