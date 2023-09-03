@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Saurlax
 
 [![website](https://img.shields.io/badge/website-www.saurlax.com-blue)](https://www.saurlax.com)
-[![email](https://img.shields.io/badge/email-saurlax@qq.com-blue)](mailto://saurlax@qq.com)
+[![email](https://img.shields.io/badge/email-hi@saurlax.com-blue)](mailto://hi@saurlax.com)
 [![bilibili](https://img.shields.io/badge/bilibili-@saurlax-blue?logo=bilibili&logoColor=white)](https://space.bilibili.com/251608296)
 [![zhihu](https://img.shields.io/badge/zhihu-@saurlax-blue?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/saurlax)
 [![gitee](https://img.shields.io/badge/gitee-@saurlax-blue?logo=gitee&logoColor=white)](https://gitee.com/saurlax)
