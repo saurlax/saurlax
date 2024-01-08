@@ -6,7 +6,7 @@
 [![gitee](https://img.shields.io/badge/gitee-@saurlax-blue?logo=gitee&logoColor=white)](https://gitee.com/saurlax)
 [![wakatime](https://wakatime.com/badge/user/c6e6f908-76cb-40f3-a1d8-40f7a71d0480.svg)](https://wakatime.com/@saurlax)
 
-- 🎓 Currently studying at DUT
+- 🎓 Currently studying at DLUT
 - 🧪 Technology: Web, Language, Game and Graphics
 - 📧 Contact me via email: hi@saurlax.com
 - 🔗 Personal blog: https://saurlax.com
