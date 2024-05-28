@@ -10,4 +10,4 @@
 - 📧 Contact me via email: hi@saurlax.com
 - 🔗 Personal blog: [saurlax.com](https://saurlax.com/)
 
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=saurlax)](https://github.com/saurlax)
+![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=saurlax)
