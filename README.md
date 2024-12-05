@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/c6e6f908-76cb-40f3-a1d8-40f7a71d0480.svg)](https://wakatime.com/@saurlax)
 
 - 🎓 Currently studying at DLUT
-- 🧪 Working on Web, IoT, DL, Cybersecurity and Graphics
+- 🧪 Working on Web, IoT, ML, Cybersecurity, Quantum and Graphics
 - 📧 Contact me via email: hi@saurlax.com
 - 🔗 Personal website: [saurlax.com](https://saurlax.com/)
 
