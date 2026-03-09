@@ -9,5 +9,3 @@
 - 🧪 Working on Web, IoT, ML, Cybersecurity, Quantum and Graphics
 - 📧 Contact me via email: hi@saurlax.com
 - 🔗 Personal website: [saurlax.com](https://saurlax.com/)
-
-![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=saurlax)
