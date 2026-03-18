@@ -9,3 +9,5 @@
 - 🧪 Working on Web, IoT, ML, Cybersecurity, Quantum and Graphics
 - 📧 Contact me via email: hi@saurlax.com
 - 🔗 Personal website: [saurlax.com](https://saurlax.com/)
+
+![wakatime-chart](https://wakatime.com/share/@saurlax/5a4f352f-f0e2-4f7b-8ce8-3553777a7480.svg)
