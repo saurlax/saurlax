@@ -1,13 +1,12 @@
 ## 👋 Hi, I'm Saurlax
 
-[![website](https://img.shields.io/badge/website-saurlax.com-blue)](https://saurlax.com)
-[![email](https://img.shields.io/badge/email-hi@saurlax.com-blue)](mailto://hi@saurlax.com)
-[![wakatime](https://wakatime.com/badge/user/c6e6f908-76cb-40f3-a1d8-40f7a71d0480.svg)](https://wakatime.com/@saurlax)
-<!-- [![bilibili](https://img.shields.io/badge/bilibili-@saurlax-blue?logo=bilibili&logoColor=white)](https://space.bilibili.com/251608296) -->
+[![X](https://img.shields.io/badge/-@saurlax-black?logo=x&logoColor=white)](https://x.com/saurlax)
+[![Blog](https://img.shields.io/badge/blog-saurlax.com-blue)](https://saurlax.com)
+[![Email](https://img.shields.io/badge/email-saurlax@qq.com-blue)](mailto:saurlax@qq.com)
 
 - 🎓 Currently studying at DLUT
 - 🧪 Working on Web, IoT, ML, Cybersecurity, Quantum and Graphics
-- 📧 Contact me via email: hi@saurlax.com
-- 🔗 Personal website: [saurlax.com](https://saurlax.com/)
+- 📧 Contact me via email: saurlax@qq.com
+- 🔗 Personal blog: [saurlax.com](https://saurlax.com/)
 
-![wakatime-chart](https://wakatime.com/share/@saurlax/5a4f352f-f0e2-4f7b-8ce8-3553777a7480.svg)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=saurlax&theme=light)
